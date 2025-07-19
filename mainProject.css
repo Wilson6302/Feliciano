@@ -1,0 +1,79 @@
+.contact ul{
+    display: flex;
+    padding: 5px;
+    justify-content: space-around;
+    background-color: grey;
+    
+}
+*{
+    margin: 0;
+}
+.Menus{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 10px;
+    align-items: center;
+    padding: 40px;
+    font-size: x-large;
+    
+
+}
+.Menus ul{
+    display: flex;
+    margin-left: 400px;
+    
+}
+.Menus li{
+    margin-left: 20px;
+}
+.Menus button{
+    margin-right: 50px;
+    font-size:medium;
+}
+.box1{
+    text-align: center;
+    margin-top: 50px;
+    padding: 40px;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.box2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+
+}
+.About{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+    padding: 80px;
+    margin: 50px50px50px50px; 
+}
+/* .photo{
+    background-image: url(food2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+} */
+ .photo{
+    background-color: bisque;
+ }
+ .About-left{
+    padding: 100px;
+    padding-top: 0;
+ }
+ .About-right p{
+    text-align:center;
+    line-height: 1.5;
+    padding-right:0;
+    
+ }
+ .details ul{
+    display: flex;
+    
+ }
+ .details li{
+    padding-left: 100px;
+ }
